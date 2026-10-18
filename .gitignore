@@ -4,4 +4,3 @@ dist
 .env.local
 .vercel
 supabase/
-src/lib/supabase.js
